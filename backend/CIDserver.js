@@ -73,7 +73,7 @@ function main() {
    return findNextCID();
 }
 
-module.exports = main();
+module.exports = {main};
   
 
 
